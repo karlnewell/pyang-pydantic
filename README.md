@@ -19,3 +19,11 @@ Plugin for the [pyang](https://github.com/mbj4668/pyang) YANG parser / compiler.
 ## Examples
 
 `pyang -f pydantic --plugindir pyang-pydantic/plugins examples/turing-maching.yang`
+
+## Not yet implemented
+
+This list is not exhaustive of what hasn't been implemented
+
+* rpcs
+* notifications
+* attributes types based on node type
