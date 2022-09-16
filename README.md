@@ -18,4 +18,4 @@ Plugin for the [pyang](https://github.com/mbj4668/pyang) YANG parser / compiler.
 
 ## Examples
 
-``pyang -f pydantic --plugindir pyang-pydantic/plugins examples/turing-maching.yang`
+`pyang -f pydantic --plugindir pyang-pydantic/plugins examples/turing-maching.yang`
